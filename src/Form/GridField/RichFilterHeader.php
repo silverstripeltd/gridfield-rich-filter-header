@@ -12,12 +12,12 @@ use SilverStripe\Forms\GridField\GridField_FormAction;
 use SilverStripe\Forms\GridField\GridFieldFilterHeader;
 use SilverStripe\Forms\GridField\GridState_Data;
 use SilverStripe\Forms\TextField;
-use SilverStripe\ORM\ArrayList;
+use SilverStripe\Model\List\ArrayList;
 use SilverStripe\ORM\DataList;
 use SilverStripe\ORM\DataObject;
 use SilverStripe\ORM\Filterable;
 use SilverStripe\ORM\Filters\SearchFilter;
-use SilverStripe\ORM\SS_List;
+use SilverStripe\Model\List\SS_List;
 use SilverStripe\View\ArrayData;
 use SilverStripe\View\SSViewer;
 
