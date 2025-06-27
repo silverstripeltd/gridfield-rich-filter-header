@@ -18,7 +18,7 @@ use SilverStripe\ORM\DataObject;
 use SilverStripe\ORM\Filterable;
 use SilverStripe\ORM\Filters\SearchFilter;
 use SilverStripe\Model\List\SS_List;
-use SilverStripe\View\ArrayData;
+use SilverStripe\Model\ArrayData;
 use SilverStripe\View\SSViewer;
 
 /**
